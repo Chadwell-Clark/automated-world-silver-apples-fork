@@ -40,13 +40,14 @@ header img {
     padding: .5rem;
     background:#7CFFC4;
     border-radius: 10px;
+    /* height: 300px; */
 
     
 
 }
 
 .cardImage {
-    /* object-fit: contain; */
+    object-fit: contain;
     width: 100%;
     max-width: 250px;
     
