@@ -12,7 +12,7 @@ document.getElementById("home").addEventListener("click", home);
 function malaysia() {
     // document.getElementByID("test").innerHTML = `MALYSIA  MALAYSIA  MALAYSIA`;
     console.log("MALYSIA  MALAYSIA  MALAYSIA");
-    alert("Warning this computer is infected with CORONAVIRUS!!!");
+    // alert("Warning this computer is infected with CORONAVIRUS!!!");
 }
 function germany() {
     console.log(`<h1>Welcome to Germany</h1>`)
@@ -23,6 +23,7 @@ function iceland() {
     console.log("ICELAND ICELAND ICELAND");
 }
 function home() {
+    document.querySelector("#homeH-ONE").innerHTML = `MALYSIA  MALAYSIA  MALAYSIA`;
     
-    console.log("Home is where ther heart is");
+    console.log("HOME is where the HEART is");
 }
