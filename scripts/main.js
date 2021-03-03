@@ -10,8 +10,9 @@ document.getElementById("iceLand").addEventListener("click", iceland);
 document.getElementById("home").addEventListener("click", home);
 
 function malaysia() {
-    // document.getElementsByID("test").innerHTML = `<p>MALYSIA  MALAYSIA  MALAYSIA</p>`;
+    // document.getElementByID("test").innerHTML = `MALYSIA  MALAYSIA  MALAYSIA`;
     console.log("MALYSIA  MALAYSIA  MALAYSIA");
+    alert("Warning this computer is infected with CORONAVIRUS!!!");
 }
 function germany() {
     console.log(`<h1>Welcome to Germany</h1>`)
